@@ -17,7 +17,7 @@ This shell script is designed to automate the installation of DEUP HQ, a lightwe
 
     ```sh
     git clone https://github.com/dxdgame/ACCESS-ANY-VPS-ROOT-ACCESS.git
-    cd freeroot
+    cd ACCESS-ANY-VPS-ROOT-ACCESS
     ```
 
 2. Run the installer script:
